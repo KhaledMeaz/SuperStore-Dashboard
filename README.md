@@ -10,6 +10,5 @@ This is a Data Analysis and Visualization project based on the **Superstore Sale
   - Shipping Performance and Order Insights
 
 ## Tools Used
-- Python (Pandas, Matplotlib)
 - Power BI
 - Excel/CSV
